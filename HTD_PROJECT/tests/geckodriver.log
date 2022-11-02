@@ -1,0 +1,206 @@
+1665645049023	geckodriver	INFO	Listening on 127.0.0.1:59365
+1665645052076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileMhI9Fq"
+1665645053675	Marionette	INFO	Marionette enabled
+1665645053696	Marionette	INFO	Listening on port 59378
+Read port: 59378
+Read port: 59378
+1665645055167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileMhI9Fq\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665645065160	Marionette	INFO	Stopped listening on port 59378
+1665645067772	geckodriver	INFO	Listening on 127.0.0.1:59430
+1665645070803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileBVtGXw"
+1665645072586	Marionette	INFO	Marionette enabled
+1665645072604	Marionette	INFO	Listening on port 59449
+Read port: 59449
+Read port: 59449
+1665645073964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileBVtGXw\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665645084781	Marionette	INFO	Stopped listening on port 59449
+1665645088291	geckodriver	INFO	Listening on 127.0.0.1:59505
+1665645091296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileVOEk5i"
+1665645092687	Marionette	INFO	Marionette enabled
+1665645092706	Marionette	INFO	Listening on port 59517
+Read port: 59517
+Read port: 59517
+1665645094324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileVOEk5i\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665645103378	Marionette	INFO	Stopped listening on port 59517
+1665645106224	geckodriver	INFO	Listening on 127.0.0.1:59559
+1665645109244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileQQj9gj"
+1665645110285	Marionette	INFO	Marionette enabled
+1665645110302	Marionette	INFO	Listening on port 59571
+Read port: 59571
+1665645111356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileQQj9gj\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665645966468	Marionette	INFO	Stopped listening on port 59571
+s is deprecated. Use //# instead
+1665645305374	Marionette	INFO	Stopped listening on port 59988
+1665645309147	geckodriver	INFO	Listening on 127.0.0.1:60042
+1665645312157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofilewvBPld"
+1665645313115	Marionette	INFO	Marionette enabled
+1665645313136	Marionette	INFO	Listening on port 60055
+Read port: 60055
+1665645313571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofilewvBPld\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665645323704	Marionette	INFO	Stopped listening on port 60055
+1665645327760	geckodriver	INFO	Listening on 127.0.0.1:60092
+1665645330775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofilexzvj7q"
+1665645331730	Marionette	INFO	Marionette enabled
+1665645331754	Marionette	INFO	Listening on port 60113
+Read port: 60113
+1665645332184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofilexzvj7q\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665645343701	Marionette	INFO	Stopped listening on port 60113
+1665645347435	geckodriver	INFO	Listening on 127.0.0.1:60160
+1665645350459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileJDhg76"
+1665645351559	Marionette	INFO	Marionette enabled
+1665645351587	Marionette	INFO	Listening on port 60172
+Read port: 60172
+1665645352135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileJDhg76\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665645362891	Marionette	INFO	Stopped listening on port 60172
+1665645366700	geckodriver	INFO	Listening on 127.0.0.1:60228
+1665645369714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileAqjmMa"
+1665645370749	Marionette	INFO	Marionette enabled
+1665645370768	Marionette	INFO	Listening on port 60240
+Read port: 60240
+1665645371201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileAqjmMa\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665645383445	Marionette	INFO	Stopped listening on port 60240
+[Parent 33564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1665645387858	geckodriver	INFO	Listening on 127.0.0.1:60294
+1665645390891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofiledV7Hc1"
+1665645391836	Marionette	INFO	Marionette enabled
+1665645391855	Marionette	INFO	Listening on port 60306
+Read port: 60306
+1665645392381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofiledV7Hc1\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665645403217	Marionette	INFO	Stopped listening on port 60306
+1665645968027	geckodriver	INFO	Listening on 127.0.0.1:60946
+1665645971056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileW8vzrk"
+1665645972479	Marionette	INFO	Marionette enabled
+1665645972501	Marionette	INFO	Listening on port 60964
+Read port: 60964
+Read port: 60964
+1665645974245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\console.warn: SearchSettings: "get: No settings file exists, new profJavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665646274959	Marionette	INFO	Stopped listening on port 60964
+ne 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665646279906	Marionette	INFO	Stopped listening on port 61441665646280181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileWCX11A"
+1665646282218	Marionette	INFO	Marionette enabled
+1665646282233	Marionette	INFO	Listening on port 61612
+Read port: 61612
+Read port: 61612
+1665646284112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileWCX11A\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665646293980	Marionette	INFO	Stopped listening on port 61612
+nored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileToxl3a\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665646375543	Marionette	INFO	Stopped listening on port 61645
+1665646377883	geckodriver	INFO	Listening on 127.0.0.1:62066
+1665646380902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileAVFcZv"
+1665646381956	Marionette	INFO	Marionette enabled
+1665646381969	Marionette	INFO	Listening on port 62078
+Read port: 62078
+1665646382797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileAVFcZv\\search.json.mozlz4", (void 0)))
+1665646773146	Marionette	INFO	Stopped listening on port 62078
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1665646773470	geckodriver	INFO	Listening on 127.0.0.1:62253
+1665646776469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofile4Z2Hky"
+1665646778559	Marionette	INFO	Marionette enabled
+1665646778582	Marionette	INFO	Listening on port 62266
+Read port: 62266
+Read port: 62266
+1665646779873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofile4Z2Hky\\search.json.mozlz4", (void 0)))
+1665650612665	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1665650628985	Marionette	INFO	Stopped listening on port 62266
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+bled
+1665650622805	Marionette	INFO	Listening on port 62313
+Read port: 62313
+1665650623656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofilecrKc6t\\search.json.mozlz4", (void 0)))
+1665650642681	Marionette	INFO	Stopped listening on port 62313
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "quit-application-granted" is finished, it is too late to register completion condition "ContentParent: id=28ec51a5500"
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1665650643216	geckodriver	INFO	Listening on 127.0.0.1:62477
+1665650646081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileRy1gXL"
+1665650647383	Marionette	INFO	Marionette enabled
+1665650647396	Marionette	INFO	Listening on port 62491
+Read port: 62491
+1665650648342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileRy1gXL\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665650660809	Marionette	INFO	Stopped listening on port 62491
+1665658610102	geckodriver	INFO	Listening on 127.0.0.1:51581
+1665658613140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofile9JDDBQ"
+1665658614410	Marionette	INFO	Marionette enabled
+1665658614423	Marionette	INFO	Listening on port 51593
+Read port: 51593
+1665658615355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofile9JDDBQ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665658625603	Marionette	INFO	Stopped listening on port 51593
+1665658627456	geckodriver	INFO	Listening on 127.0.0.1:51647
+1665658630461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileLELK75"
+1665658631357	Marionette	INFO	Marionette enabled
+1665658631370	Marionette	INFO	Listening on port 51660
+Read port: 51660
+1665658632148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileLELK75\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1665658641707	Marionette	INFO	Stopped listening on port 51660
+1665659029995	geckodriver	INFO	Listening on 127.0.0.1:51998
+1665659033014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofiley2cOF6"
+1665659034281	Marionette	INFO	Marionette enabled
+1665659034300	Marionette	INFO	Listening on port 52013
+Read port: 52013
+1665659035352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofiley2cOF6\\search.json.mozlz4", (void 0)))
+1665659039579	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1665659080763	Marionette	INFO	Stopped listening on port 52013
+5659047871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofilewwNtcX"
+1665659048955	Marionette	INFO	Marionette enabled
+1665659048973	Marionette	INFO	Listening on port 52033
+Read port: 52033
+1665659049341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofilewwNtcX\\search.json.mozlz4", (void 0)))
+1665659053524	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1665659079588	Marionette	INFO	Stopped listening on port 52033
